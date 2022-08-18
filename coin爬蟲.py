@@ -30,7 +30,7 @@ while True:
 
     # 發送到 line notify
         headers = {
-            "Authorization": "Bearer " + "Yu530PSGt1K0Kasc4CJrK6wdSVaxnTyZ65r3WZMbq1f",
+            "Authorization": "Bearer " + "line權杖需替換",
             "Content-Type": "application/x-www-form-urlencoded"
         }
 

@@ -1,1 +1,3 @@
-"# -api--" 
+幣安api爬蟲向幣安api爬取當前幣價
+
+透過line notify服務推送到line上面
